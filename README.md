@@ -1,2 +1,2 @@
 # mavros-delivery-drone
-Quadrotor control code for drone delivery using PX4 and ROS
+Quadrotor control code and STEP files for package delivery using PX4 and ROS
