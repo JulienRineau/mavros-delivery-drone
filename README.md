@@ -1,2 +1,2 @@
 # mavros-delivery-drone
-Delivery Drone build with PX4 and Mavros
+Quadrotor control code for drone delivery using PX4 and ROS
